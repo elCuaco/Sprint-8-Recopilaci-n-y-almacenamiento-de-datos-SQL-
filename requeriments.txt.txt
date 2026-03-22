@@ -1,0 +1,9 @@
+
+## 📄 Archivo 2: `requirements.txt`
+
+```txt
+pandas==2.0.3
+matplotlib==3.7.2
+seaborn==0.12.2
+scipy==1.10.1
+jupyter==1.0.0

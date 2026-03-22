@@ -1,0 +1,16 @@
+zuber-data-analysis/
+├── README.md
+├── requirements.txt
+├── .gitignore
+├── data/
+│   ├── moved_project_sql_result_01.csv
+│   ├── moved_project_sql_result_04.csv
+│   └── moved_project_sql_result_07.csv
+├── notebooks/
+│   └── zuber_analysis.ipynb
+├── src/
+│   ├── analysis.py
+│   └── hypothesis_test.py
+└── outputs/
+    ├── grafico_empresas.png
+    └── grafico_barrios.png
